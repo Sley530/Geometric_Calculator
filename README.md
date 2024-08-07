@@ -1,4 +1,4 @@
-# @D Geometric Calculator
+# 2D Geometric Calculator
 
 ## Overview
 The 2D Geometric Calculator is a web application designed to calculate the perimeter and area of various geometric figures. Users can select a geometric figure, input the necessary parameters, and view the calculated results along with an image of the selected figure.
