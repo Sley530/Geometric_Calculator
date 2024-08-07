@@ -16,18 +16,18 @@ The 2D Geometric Calculator is a web application designed to calculate the perim
 
 ## Project Structure
 geometric_calculator
-├── index.html
-├── styles.css
-├── script.js
-├── images
-├── triangle.png
-├── square.png
-├── circle.png
-├── rectangle.png
-├── rhombus.png
-├── trapezoid.png
-├── parallelogram.png
-├── README.md
+- ├── index.html
+- ├── styles.css
+- ├── script.js
+- ├── images
+- ├── triangle.png
+- ├── square.png
+- ├── circle.png
+- ├── rectangle.png
+- ├── rhombus.png
+- ├── trapezoid.png
+- ├── parallelogram.png
+- ├── README.md
 
 
 ## Installation
